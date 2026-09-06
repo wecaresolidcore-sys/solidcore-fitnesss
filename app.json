@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Solidcore Fitness",
+    "slug": "solidcore-fitness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "solidcorefitness",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.solidcorefitness.app"
+    },
+    "android": {
+      "package": "com.solidcorefitness.app"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
